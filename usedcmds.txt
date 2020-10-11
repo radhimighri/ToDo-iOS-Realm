@@ -1,0 +1,14 @@
+
+cd /Users/radhimighri/Documents/R@diOS/Section\ 16--20/Todoey-Realm-iOS13 && cd ..
+
+cd /Users/radhimighri/Documents/R@diOS/Section\ 16--20/Todoey-Realm-iOS13 ; pod init ; open Podfile -a Xcode 
+
+sudo gem install cocoapods
+
+pod setup --verbose
+
+pod --version
+
+cd /Users/radhimighri/Documents/R@diOS/Section\ 16--20/Todoey-Realm-iOS13 ; pod init ; open Podfile -a Xcode 
+
+pod install  
